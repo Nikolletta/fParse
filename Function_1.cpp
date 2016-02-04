@@ -12,4 +12,5 @@ return rez;
 
 int MoveFile(UnicodeString path)
 {
+	MoveFile(path);
 }
