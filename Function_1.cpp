@@ -8,4 +8,9 @@ if 	OpenFile(path) rez=1;
 return rez;	
 }
 
-//Открываем файл
+//Ћткрываем файл
+
+int MoveFile(UnicodeString path)
+{
+	MoveFile(path);
+}
