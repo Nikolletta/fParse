@@ -1,3 +1,4 @@
 class NewClass
 {
+int Flag;
 }
