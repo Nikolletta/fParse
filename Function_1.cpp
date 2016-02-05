@@ -9,3 +9,5 @@ return rez;
 }
 
 //Открываем файл
+
+OpenFile:A;
