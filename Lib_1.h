@@ -1,5 +1,7 @@
 class NewClass
 {
+	private:
+	int a;
 	
 }
 
@@ -10,5 +12,5 @@ class OpenFile
 	
 	privat:
 	function int OpenFile();
-	
+
 }
