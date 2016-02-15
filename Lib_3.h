@@ -1,0 +1,4 @@
+Class N
+{
+int n
+}

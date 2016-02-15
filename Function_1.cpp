@@ -11,3 +11,5 @@ return rez;
 //Открываем файл
 
 OpenFile:A;
+
+Messege(rez + "“ра");
